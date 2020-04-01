@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <string name="app_name">Lokalisierungs-App</string>
+    <string name="android">Android</string>
+    <string name="ios">iOS</string>
+    <string name="windows">Windows</string>
+
+    //PLACEHOLDER FOR ANDROID
+    <string name="android_text">
+        "<xliff:g id="os">Android</xliff:g>" wird von Google entwickelt
+    </string>
+
+    //PLACEHOLDER FOR IOS
+    <string name="ios_text">
+        "<xliff:g id="os">iOS</xliff:g>" wird von Apple entwickelt
+    </string>
+
+    //PLACEHOLDER FOR WINDOWS
+    <string name="windows_text">
+        "<xliff:g id="os">Windows</xliff:g>" wird von Microsoft entwickelt
+    </string>
+
+</resources>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <string name="app_name">Приложение локализации</string>
+    <string name="android">Android</string>
+    <string name="ios">iOS</string>
+    <string name="windows">Windows</string>
+
+    //PLACEHOLDER FOR ANDROID
+    <string name="android_text">
+        "<xliff:g id="os">Android</xliff:g>" разработан Google
+    </string>
+
+    //PLACEHOLDER FOR IOS
+    <string name="ios_text">
+        "<xliff:g id="os">iOS</xliff:g>" разработан Apple
+    </string>
+
+    //PLACEHOLDER FOR WINDOWS
+    <string name="windows_text">
+        "<xliff:g id="os">Windows</xliff:g>" разработан Microsoft
+    </string>
+
+</resources>
